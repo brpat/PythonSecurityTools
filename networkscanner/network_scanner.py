@@ -47,7 +47,7 @@ def print_result_nice_format(data):
 	print("IP\t\t\t\t\tAt MAC Address")
 	for key, val in data.items():
 		print(f"{key}\t\t\t\t{val}")
-	 s
+	 
 
 
 def arp_broadcast_gen():
